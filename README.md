@@ -1,6 +1,5 @@
 # e-registrationform
-![Colorful Modern Infinity Technology Free Logo](https://github.com/Thaymp/Project-1/assets/173932690/034c4632-4926-45ff-971c-812321d623b9)
-
+![Colorful Modern Infinity Technology Free Logo](https://github.com/Thaymp/Project-1/assets/173932690/03f2275b-d971-4ca8-8762-10a0f5e540ce)
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FThaymp%2FProject-1)
 
 # Índice 
@@ -47,10 +46,9 @@ Após baixar o projeto, você pode abri com o eclipse IDE, utilizando o terminal
 # Autores
  👩‍💻
  
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/173932690?v=4" width=115><br><sub>Thayanna Mendes Pedroza</sub>](https://github.com/Thaymp) 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/173932690?v=4" width=115><br><sub>Thayanna Mendes Pedroza</sub>](https://github.com/Thaymp) 
 
 # Referências
  📑
 * https://www.alura.com.br/artigos/escrever-bom-readme
-* https://gist.github.com/rxaviers/7360908# Project-1
-Projeto para aula de POO.
+* https://gist.github.com/rxaviers/7360908
